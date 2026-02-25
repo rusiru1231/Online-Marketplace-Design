@@ -1,11 +1,11 @@
-# 🛒 Online Marketplace App (Figma Design)
+# Online Marketplace App (Figma Design)
 
 This project is a UI/UX design for an **Online Marketplace Application**, created using **Figma**.  
 The app is designed to provide a simple, modern, and user-friendly experience for both buyers and sellers.  
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The Online Marketplace App is a mobile-first design that allows users to:
 - Browse products across categories  
 - Add items to cart and manage orders  
@@ -14,7 +14,7 @@ The Online Marketplace App is a mobile-first design that allows users to:
 
 ---
 
-## 🎨 Features in the Design
+## Features in the Design
 - **Clean UI:** Minimal and attractive layout for easy navigation  
 - **Product Pages:** High-quality product display with detailed descriptions  
 - **Shopping Cart:** Smooth cart and checkout flow  
@@ -23,17 +23,17 @@ The Online Marketplace App is a mobile-first design that allows users to:
 
 ---
 
-## 🔗 Figma Project
+## Figma Project
 👉 [View the Figma Design](https://www.figma.com/proto/qpeaF71z2yFIPg0rFS5NYm/Online-Marketplace?node-id=0-1&t=a4Nq5IkwlONYRlYt-1)
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 You can clone the repository and view sample images 
 
 ---
 
-## 🚀 Future Development
+## Future Development
 This design can be further developed into a real application using technologies such as:
 - **Frontend:** React, Angular, or Flutter  
 - **Backend:** Node.js, Django, or Laravel  
@@ -41,12 +41,12 @@ This design can be further developed into a real application using technologies 
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 - `/design` → Contains exported Figma frames/screens (PNG/JPG)  
 - `README.md` → Project introduction and documentation  
 
 ---
 
-## 👨‍💻 Author
-⚠️ This design is created by Rusiru Bandara.  
+## Author
+This design is created by Rusiru Bandara.  
 You are welcome to view and learn from it, but please do not copy or redistribute without giving proper credit.
