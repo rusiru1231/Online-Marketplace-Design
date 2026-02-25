@@ -24,7 +24,7 @@ The Online Marketplace App is a mobile-first design that allows users to:
 ---
 
 ## Figma Project
-👉 [View the Figma Design](https://www.figma.com/proto/qpeaF71z2yFIPg0rFS5NYm/Online-Marketplace?node-id=0-1&t=a4Nq5IkwlONYRlYt-1)
+[View the Figma Design](https://www.figma.com/proto/qpeaF71z2yFIPg0rFS5NYm/Online-Marketplace?node-id=0-1&t=a4Nq5IkwlONYRlYt-1)
 
 ---
 
